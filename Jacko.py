@@ -1,4 +1,10 @@
-# Comments like these help explain the program.
+# By UNKNOWN AUTHOR from trinket.io
+# Remixed by PaladinOreo to work in Python 3.8
+
+'''
+This program was uploaded here for educational purposes.
+Look this is how you make a docstring in Python!!!
+'''
 
 # Make a turtle named 'tina' 
 import turtle
